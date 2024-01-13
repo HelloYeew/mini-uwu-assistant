@@ -1,0 +1,6 @@
+openai
+py3-tts
+python-dotenv
+SpeechRecognition
+PyAudio
+pocketsphinx
